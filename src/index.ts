@@ -5,7 +5,7 @@ dotenv.config();
 
 // EDIT THIS!
 function postTextFromImageName(imageName) {
-  return 'Kia ora tātou. Have this while I sort the scheduling out.';
+  return '';
 }
 
 // EDIT THIS!
