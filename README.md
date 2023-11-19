@@ -2,6 +2,10 @@
 
 This is a simple bot that posts an image to Bluesky on a cron job using GitHub Actions.
 
+## This fork
+
+Aiming for a weekly 'The Weekend' post of Aotearoa New Zealand
+
 ## How to use
 
 1. Fork this repo
