@@ -11,10 +11,10 @@ function postTextFromImageName(imageName: string): string {
 
   // Create a formatter
   // const formatter = new Intl.DateTimeFormat('en-US', {
-    year: 'numeric',
-    month: 'long',
-    day: 'numeric',
-  });
+  //  year: 'numeric',
+  //  month: 'long',
+  //  day: 'numeric',
+  // });
 
   // Format the date
   // return formatter.format(date);
@@ -26,7 +26,7 @@ function postTextFromImageName(imageName: string): string {
 // EDIT THIS!
 function altTextFromImageName(imageName: string): string {
   // return 'Image from ' + postTextFromImageName(imageName);
-  return 'Daniel Craig introducting The Weekend on SNL, with the text: E rangatira mā - Te mutunga wiki';
+  return 'Daniel Craig introducting The Weekend on SNL, with the text: E rangatira mā... Te mutunga wiki';
 }
 
 // Shouldn't have to edit this.
