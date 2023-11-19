@@ -5,6 +5,9 @@ dotenv.config();
 
 // EDIT THIS!
 function postTextFromImageName(imageName: string): string {
+  
+  /*
+  
   // Remove the file extension and parse the date
   // const dateParts = imageName.replace('.jpg', '').split('-');
   // const date = new Date(Number(dateParts[0]), Number(dateParts[1]) - 1, Number(dateParts[2] || 1));
@@ -18,6 +21,10 @@ function postTextFromImageName(imageName: string): string {
 
   // Format the date
   // return formatter.format(date);
+
+  
+
+  */
 
   // Just skip all that and return chosen text
   return '';
