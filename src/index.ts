@@ -7,13 +7,13 @@ dotenv.config();
 function postTextFromImageName(imageName: string): string {
 
   // Just skip all that and return chosen text
-  return '';
+  return 'post text';
 }
 
 // EDIT THIS!
 function altTextFromImageName(imageName: string): string {
   // return 'Image from ' + postTextFromImageName(imageName);
-  return 'Daniel Craig introducting The Weekend on SNL, with the text: E rangatira mā... Te mutunga wiki';
+  return 'Daniel Craig introducing The Weekend on SNL, with the text: E rangatira mā... Te mutunga wiki';
 }
 
 // Shouldn't have to edit this.
