@@ -5,12 +5,12 @@ dotenv.config();
 
 // EDIT THIS!
 function postTextFromImageName(imageName) {
-  return '';
+  return 'Kia ora tātou. Have this while I sort the scheduling out.';
 }
 
 // EDIT THIS!
 function altTextFromImageName(imageName) {
-  return 'Daniel Craig introducting The Weekend on SNL, with the text: E rangatira mā... te mutunga wiki;
+  return 'Daniel Craig introducting The Weekend on SNL, with the text: E rangatira mā... te mutunga wiki';
 }
 
 // Shouldn't have to edit this.
