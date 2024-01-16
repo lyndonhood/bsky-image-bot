@@ -4,7 +4,7 @@ This is a simple bot that posts an image to Bluesky on a cron job using GitHub A
 
 ## This fork
 
-Aiming for a weekly 'The Weekend' post of Aotearoa New Zealand
+Aiming for a weekly 'The Weekend' post of Aotearoa New Zealand.
 
 ## How to use
 
