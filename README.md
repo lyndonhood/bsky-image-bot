@@ -8,7 +8,7 @@ Aiming for a weekly 'The Weekend' post of Aotearoa New Zealand.
 
 ## How to use
 
-1. Fork this repo
+1. Fork this repo. Or even better, fork the original.
 1. Put your images under `imagequeue/`. Only JPG and PNG images are supported by Bluesky. Commit and push.
 1. Edit index.ts to customize parsing of your filenames into post text. Commit and push.
 1. Generate an [app password](https://bsky.app/settings/app-passwords) for your Bluesky account.
